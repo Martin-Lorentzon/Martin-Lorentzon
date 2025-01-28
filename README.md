@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### 👋 Hej! I'm Martin, a Technical Artist based in Gothenburg, Sweden
+Born 2002 👶  
+Been exploring 3D graphics since 2021 🎬  
+Attended game jams since COVID-19 settled 2022-ish 👽  
+I started studying to become a Technical Artist at Yrgo, högre yrkesutbildning Göteborg 2022 👨‍💻  
+I'm now working as a Consultant Technical Artist specialising in Python and Blender for automotive 🧡...
 <!--
 **Martin-Lorentzon/Martin-Lorentzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
